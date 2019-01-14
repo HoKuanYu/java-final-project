@@ -1,1 +1,3 @@
-程式碼以及可執行檔都在src裡面
+code and .jar in src
+
+github: https://github.com/HoKuanYu/java-final-project
